@@ -11,7 +11,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinibrb)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinibrb&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vinibrb/Vinibrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
