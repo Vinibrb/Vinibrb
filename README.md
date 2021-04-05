@@ -5,10 +5,14 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vinibrb)](https://dev.to/vinibrb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinibrb@gmail.com)](mailto:vinibrb@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vinibrb)](https://t.me/vinibrb)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinibrb)](https://github.com/anuraghazra/github-readme-stats)
-# 
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinibrb&theme=synthwave&show_icons=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinibrb)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 <!--
 **Vinibrb/Vinibrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
